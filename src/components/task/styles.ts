@@ -20,7 +20,7 @@ export const DescriptionTask = styled.span`
 
 export const DescriptionTaskCheked = styled.span`
   flex: 1;
-  color: ${(props) => props.theme['gray-100']};
+  color: ${(props) => props.theme['gray-300']};
   text-decoration: line-through;
 `
 
